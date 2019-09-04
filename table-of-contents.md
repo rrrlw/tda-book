@@ -1,3 +1,11 @@
+* Part: Classical topological data analysis
+  - Chapter: Hierarchical clustering
+  - Chapter: Relational network analysis
+  - Chapter: Association network analysis
+* Part: Neighborhood-preserving dimensionality reduction
+  - Chapter: Understanding the basics
+  - Chapter: Popular algorithms (lle, sneer, Rtsne; smallvis; multiple chapters?)
+  - Chapter: Basic applications
 * Part: Persistent Homology (Vietoris-Rips)
   - Chapter: Understanding the basics
   - Chapter: Computation (TDAstats?)
