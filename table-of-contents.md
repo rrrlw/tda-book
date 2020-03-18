@@ -4,7 +4,7 @@
   - Chapter: Association network analysis
 * Part: Neighborhood-preserving dimensionality reduction
   - Chapter: Understanding the basics
-  - Chapter: Popular algorithms (lle, sneer, Rtsne; smallvis; multiple chapters?)
+  - Chapter: Popular algorithms (UMAP, lle, sneer, Rtsne; smallvis; multiple chapters?)
   - Chapter: Basic applications
 * Part: Persistent Homology (Vietoris-Rips)
   - Chapter: Understanding the basics
