@@ -1,39 +1,28 @@
 * Part: Classical topological data analysis
   - Chapter: Hierarchical clustering
-  - Chapter: Relational network analysis
-  - Chapter: Association network analysis
-  - Chapter: Merge Trees
-	  - Section: Basic Morse theory  
-  	- Section: Super and sub level sets 
-  	- Section: Merge trees (relationships to reeb graphs)
-		- Section: Relationship to clustering
+    - Agglomerative & divisive algorithms; dendrograms
+    - Density functions and merge trees
+    - Persistence; HDBSCAN (?)
+    - Stability of single-linkage clustering (?)
+  - Chapter: Network analysis
+    - Relational networks; association networks
+    - Euler characteristic; cycle rank
+    - Simplicial homology (?)
 * Part: Neighborhood-preserving dimensionality reduction
-  - Chapter: Understanding the basics
-  - Chapter: Popular algorithms (UMAP, HDBSCAN, lle, sneer, Rtsne; smallvis; multiple chapters?)
-  - Chapter: Basic applications
-* Part: Persistent Homology (Vietoris-Rips, lower-star filtration)
-  - Chapter: Understanding the basics (filtrations?)
-  - Chapter: Computation (TDAstats?)
-  - Chapter: Visualization (TDAstats/ggtda?)
-  - Chapter: Inference (TDAstats/TDA?)
-  - Chapter: Basic Applications (differentiating sample point clouds (circ2d vs unif2d)?)
-* Part: Time Series analysis 
-	- Chapter: Basics (Fourier decomposition)
-	- Chapter: Classical Signal analysis (ARIMA, moving average, etc.)
-	- Chapter: Slidding window embeddings
-	- Chapter: SW1Pers and relationship back to PH
-* Part: Reeb graph (Matt: maybe this should be a section as part of the basics to Mapper?)
-  - Chapter: Understanding the basics
-  - Chapter: Computation
-  - Chapter: Visualization
-  - Chapter: Inference/Other?
-  - Chapter: Basic Applications
-* Part: Mapper algorithm
-  - Chapter: Understanding the basics
-  - Chapter: Computation
-  - Chapter: Visualization
-  - Chapter: Inference/Other?
-  - Chapter: Basic Applications
+  - Chapter: Multidimensional scaling (Isomap, LLE)
+  - Chapter: Stochastic embeddings (SNE & t-SNE)
+  - Chapter: Manifold learning (Diffusion maps, UMAP)
+* Part: Persistent homology
+  - Chapter: Vietoris-Rips and Cech complexes
+  - Chapter: Filtrations (lower-star filtration; elder rule; plot types)
+  - Chapter: Simplicial maps (?)
+  - Chapter: Stability and statistical inference (persistent landscapes)
+  - Chapter: Sliding window embeddings (SW1Pers)
+* Part: Mapper construction
+  - Chapter: Reeb graphs
+  - Chapter: Mapper
+  - Chapter: Persistence and stability
+  - Chapter: Annotation and analysis (variable connectivity; stable paths)
 * Part: Real-World Applications
   - Use case: handwriting recognition? (MNIST/EMNIST?)
   - Use case: healthcare TDA dataset(s) (can split into multiple chapters, depending on how many use cases there are and how similar they are to each other)
